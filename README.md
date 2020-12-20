@@ -1,10 +1,9 @@
 ## Tabel Of Content
 
-* [Arrays](https://github.com/Youssef-elkeheil/HIS_Session_2#arrays)
-
-* [Vectors](https://github.com/Youssef-elkeheil/HIS_Session_2#vectors)
-* [Streams](https://github.com/Youssef-elkeheil/HIS_Session_2#streams)
-* [Files](https://github.com/Youssef-elkeheil/HIS_Session_2#files)
+* [Arrays](arrays)
+* [Vectors](vectors)
+* [Streams](streams)
+* [Files](files)
 
 # Arrays
 
