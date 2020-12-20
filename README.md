@@ -185,7 +185,7 @@ int x[3][4] = {0, 1 ,2 ,3 ,4 , 5 , 6 , 7 , 8 , 9 , 10 , 11}
 ### **Better Method:**
 
 ```c++
-int x[3][4] = {{0,1,2,3}, {4,5,6,7}, {8,9,10,11}};
+int x[3][4] = { (0,1,2,3), (4,5,6,7), (8,9,10,11) };
 ```
 
 >This type of initialization make use of nested braces. Each set of inner braces represents one row. In the above example there are total three rows so there are three sets of inner braces.
