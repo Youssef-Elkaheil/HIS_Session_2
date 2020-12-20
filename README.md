@@ -1,4 +1,4 @@
-## Tabel Of Content
+## Table Of Content
 
 * [Arrays](https://youssef-elkeheil.github.io/HIS_Session_2/#arrays)
 * [Vectors](https://youssef-elkeheil.github.io/HIS_Session_2/#vectors)
