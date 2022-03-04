@@ -401,7 +401,7 @@ int main()
     // Assign vector 
     vector<int> vec;
 
-    // fill the array with 12 seven times 
+    // fill the vector with 12 seven times 
     vec.assign(7, 12);
 
     cout << "The vector elements are: ";
