@@ -3,10 +3,10 @@
 
 ## Table Of Content
 
-* [Arrays](#arrays)
-* [Vectors](#vectors)
-* [Streams](#streams)
-* [Files](#files)
+* [Arrays]([#arrays](https://github.com/Youssef-Elkaheil/HIS_Session_2/#arrays))
+* [Vectors](https://github.com/Youssef-Elkaheil/HIS_Session_2/#vectors)
+* [Streams](https://github.com/Youssef-Elkaheil/HIS_Session_2/#streams)
+* [Files](https://github.com/Youssef-Elkaheil/HIS_Session_2/#files)
 
 # Arrays
 
